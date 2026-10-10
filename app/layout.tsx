@@ -11,6 +11,7 @@ export default function RootLayout({
   return (
     <html lang="ru">
       <head>
+        <meta name="yandex-verification" content="2f7b371ba16a99d6" />
         <title>La Casino зеркало рабочее — Ля казино официальный сайт, играть онлайн</title>
         <meta
           name="description"
